@@ -1,0 +1,4 @@
+num,y =0,1
+while y<1000:
+    print(num)
+    num,y=y,num+y
